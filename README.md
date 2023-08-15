@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniciusESanto
 - 👀 I’m interested in how programming can be so amazing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JavaScript from focused on Front-End
 - 💞️ I’m looking to collaborate in small projects for my personal development in the area
 - 📫 How to reach me, send me an email: viniciusesant@gmail.com
 
